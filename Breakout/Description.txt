@@ -1,0 +1,6 @@
+Based on https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-breakout-game
+with few tweaks
+- ball is destroyed after loss
+- paddle is spawned in correct position
+- aded light with movement
+- few cosmetic changes in code
